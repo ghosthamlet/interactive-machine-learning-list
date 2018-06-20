@@ -218,3 +218,33 @@
   tags: [deep-learning]
   uses: [game]
   # not sure if to include this one
+    
+- name: "The Nature of Code"
+  desc: "Interactive book about algorithms inspired by nature"
+  url: https://natureofcode.com/book/
+  repo: ""
+  license: ""
+  writeup: ""
+  authors: [Daniel Shiffman]
+  tags: [algorithms, simulation]
+  uses: [library]
+
+- name: "Visualizing Algorithms"
+  desc: ""
+  url: https://bost.ocks.org/mike/algorithms/
+  repo: ""
+  license: ""
+  writeup: ""
+  authors: [Mike Bostock]
+  tags: [algorithms]
+  uses: [library]
+
+- name: "Visualgo"
+  desc: "visualising data structures and algorithms through animation"
+  url: https://visualgo.net/en
+  repo: ""
+  license: ""
+  writeup: ""
+  authors: [Steven Halim]
+  tags: [algorithms]
+  uses: [library]
